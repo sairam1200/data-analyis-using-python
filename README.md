@@ -1,5 +1,5 @@
 # data-analyis-using-python
-ntroduction
+introduction
 
 The purpose of the assignment is to simulate the spread of COVID-19 in some specified countries, using a set of data that are provided to you. For this matter, you need to create a sample population of people according to the data provided (sample ration is provided in the test.py, for example one sample per one million population). This should be done according to the age structure in each country (percentage of population in each age group).
 
